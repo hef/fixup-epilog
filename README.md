@@ -1,5 +1,5 @@
-fixup-epilog
-============
+Fixup Epilog Laser Engraver
+===========================
 
 The Epilog Laser Engraver, Running on Windows 8, has some problems.
 
