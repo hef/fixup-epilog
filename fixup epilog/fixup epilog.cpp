@@ -39,6 +39,7 @@ int _tmain(int argc, _TCHAR* argv[])
 					std::wcout << L"Deleting Printer: " << printer.pPrinterName << " "; 
 					success = DeletePrinter(printerHandle);
 					std::cout << (success ? "(SUCCESS)" : "(FAILED)") << std::endl;
+					// Deleting doesn't actually work.
 				}
 			}
 			else
